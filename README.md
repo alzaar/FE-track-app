@@ -5,7 +5,7 @@
 **Pain Point**  
 *Issues in a city/neighbourhood having a social cost*
 
-**Solution**
+**Solution**  
 *Track issues using a cartographic monitor for issues*
 
 **Notes**
