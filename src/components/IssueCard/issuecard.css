@@ -1,0 +1,11 @@
+.card {
+  font-family: "Open Sans";
+  font-weight: 400;
+  color: #fff;
+  text-transform: none;
+  display: block;
+}
+
+.card-details {
+  font-size: 12px;
+}

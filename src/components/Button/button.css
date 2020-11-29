@@ -1,0 +1,22 @@
+.btn {
+  width: 75px;
+  margin-right: 20px;
+  cursor: pointer;
+  padding-right: 7px;
+  padding-left: 7px;
+  padding-top: 2px;
+
+}
+
+/* .btn:hover {
+  background-color: #222121;
+} */
+
+.btn-style {
+  background-color: '#62BA6D';
+  color: white;
+  width: 80px;
+  border-radius: 5px;
+  text-align: center;
+  height: 23px;
+}

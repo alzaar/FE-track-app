@@ -1,0 +1,54 @@
+.sidebar {
+  /* display: inline-block; */
+  /* position: absolute; */
+  /* top: 0; */
+  /* left: 0; */
+  background-color: #000000;
+  color: #999999;
+  z-index: 1 !important;
+  /* padding: 6px; */
+  font-weight: bold;
+  /* width: 15%; */
+  height: 100vh;
+}
+
+.header {
+  background-color: #222121;
+  height: auto;
+  /* text-align: center; */
+  padding: 5px 0px 7px 0px;
+  color: #f8c023;
+  font-family: "Roboto Condensed";
+}
+
+.number {
+  color: #fff;
+  font-size: 12px;
+  padding-left: 10px;
+  font-family: 'Roboto Condensed';
+}
+
+.hide-issue-cards {
+  transform: translateX(-600px);
+  /* transition: all .5s linear; */
+  margin-top: -20px;
+}
+
+.hide-detail-cards {
+  transform: translateY(-12000px);
+  /* transition: all .5s linear; */
+  position: relative;
+  top: -85%;
+}
+
+.detail-card {
+  transform: translateY(0px);
+  /* transition: all .9s linear; */
+  position: relative;
+  top: -65%;
+}
+
+.issue-cards {
+  /* transform: translateX(-600px); */
+  /* transition: all .5s linear; */
+}
