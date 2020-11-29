@@ -1,5 +1,7 @@
 # Tracker App
 
+![Current status] (<img src="./current_status.png" width="250" height="250" />)
+
 **Pain Point**
 *Issues in a city/neighbourhood having a social cost*
 
